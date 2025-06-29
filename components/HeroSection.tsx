@@ -16,7 +16,7 @@ const HeroSection = () => {
         <div className="text-center md:text-left md:w-3/5">
           <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-4">
             <Typewriter
-              words={["Hi, I'm Anjana!"]}
+              words={["Hi, I&apos;m Anjana!"]}
               cursor
               cursorStyle="|"
               typeSpeed={80}
@@ -27,7 +27,7 @@ const HeroSection = () => {
           <p className="text-lg sm:text-xl md:text-2xl text-gray-700 dark:text-gray-300 mb-6 leading-relaxed min-h-[5rem]">
             <Typewriter
               words={[
-                "I'm a Computer Engineering student at Khwopa College of Engineering, passionate about programming, problem-solving, and building meaningful tech solutions.",
+                "I am a Computer Engineering student at Khwopa College of Engineering, passionate about programming, problem-solving, and building meaningful tech solutions.",
               ]}
               cursor
               cursorStyle="_"
